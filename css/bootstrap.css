@@ -758,16 +758,16 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
 	cursor: pointer;
 }
 .label-important, .badge-important {
-	background-color: #b94a48;
+	background-color: #70e1f0;
 }
 .label-important[href], .badge-important[href] {
-	background-color: #953b39;
+	background-color: #6ae6d5;
 }
 .label-warning, .badge-warning {
-	background-color: #f89406;
+	background-color: #3f87f3;
 }
 .label-warning[href], .badge-warning[href] {
-	background-color: #c67605;
+	background-color: #05c6c6;
 }
 .label-success, .badge-success {
 	background-color: #468847;
@@ -1244,19 +1244,19 @@ input[type="radio"][disabled], input[type="checkbox"][disabled], input[type="rad
 	border-color: #c09853;
 }
 .control-group.error .control-label, .control-group.error .help-block, .control-group.error .help-inline {
-	color: #b94a48;
+	color: #7a3f3e;
 }
 .control-group.error .checkbox, .control-group.error .radio, .control-group.error input, .control-group.error select, .control-group.error textarea {
-	color: #b94a48;
+	color: #6e3130;
 }
 .control-group.error input, .control-group.error select, .control-group.error textarea {
-	border-color: #b94a48;
+	border-color: #bd7271;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 }
 .control-group.error input:focus, .control-group.error select:focus, .control-group.error textarea:focus {
-	border-color: #953b39;
+	border-color: #ad6160;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
